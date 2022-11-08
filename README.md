@@ -1,13 +1,6 @@
-# Projeto De Design e Desenvolvimento de Banco de Dados.
+# ProblemSet 1.
+Repositório feito para armazenar exercício da matéria de Bando de Dados .
 
-Aluno: Marco Antônio da Silva Alves
+## Detalhes do PSet1
 
-Matrícula: 202202936
-
-Turma: CC1M
-
-Professor: Abrantes Araujo Silva Filho
-
-## Detalhes
-
-Pset feito com Power Architect, Mysql e Postgres.
+Pset feito com a criação do projeto lógico feito no Power Architect e sua execução nos SGBDs.
