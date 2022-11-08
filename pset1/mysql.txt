@@ -265,4 +265,4 @@ ON UPDATE NO ACTION;
 ALTER TABLE gerentes ADD CONSTRAINT empregados_gerentes_fk
 FOREIGN KEY (id_empregado)
 REFERENCES empregados (id_empregado)
-ON DELETE NO ACTION
+ON DELETE NO ACTION;
