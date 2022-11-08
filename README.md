@@ -1,4 +1,4 @@
-# uvv_bd_1_cc1m
+# Projeto De Design e Desenvolvimento de Banco de Dados.
 
 Aluno: Marco Antônio da Silva Alves
 
@@ -8,5 +8,6 @@ Turma: CC1M
 
 Professor: Abrantes Araujo Silva Filho
 
+## Detalhes
 
-
+Pset feito com Power Architect, Mysql e Postgres.
