@@ -5,7 +5,7 @@ computacao@raiz
 
 create role marco with superuser createdb createrole inherit login replication bypassrls encrypted password '202202936';
 
-/* Criando Database */
+/* Criando Database  */
 create database uvv
 with
 owner = marco
